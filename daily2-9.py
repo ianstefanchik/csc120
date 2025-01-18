@@ -1,5 +1,4 @@
-filename = "python_notes.txt"
-
-filename = filename.removesuffix('.txt')
-
-print(filename)
+print(5+3)
+print(10-2)
+print(4*2)
+print(32/4)
