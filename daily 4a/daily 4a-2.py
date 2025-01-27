@@ -7,6 +7,5 @@ for value in range(1, 11):
 
     sum_of_squares += square
     
-
 print(squares)
 print(sum_of_squares)
