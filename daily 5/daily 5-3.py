@@ -13,6 +13,7 @@ for guess in range (1,6):
         print(f"Your guess is too high.")
     else:
         print(f"You guessed the number.")
-        break    
+        break
 
-print(f"You are out of guesses. The number was {random_number}.")
+else:
+    print(f"You are out of guesses. The number was {random_number}.")
